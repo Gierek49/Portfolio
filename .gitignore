@@ -3,3 +3,4 @@ Fraud Detection/Data/creditcard.csv
 Speech emotion recognition/Data/
 Stock price prediction/Data/Samsung.csv
 Traffic signs recognition/Data/
+Speech emotion recognition/best_model1_weights.h5
